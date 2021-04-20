@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola! 👋 :smile:
+
+- Mi nombre es **Federico Panella,** comencé a estudiar programación de manera autodidacta a principios de 2020 :computer:
+- En 2021 ingresé en el bootcam de full-stack development de la academia **Henry,** y tengo planeado graduarme en mayo del 2021. :clock2: :books: :date:
+- Actualmente estoy trabajando en grupo en mi proyecto final realizando desde cero un **market-place** de insumos agropecuarios, esta experiencia no solo profundizó los conocimientos adquiridos en el bootcamp, sino que además me hizo notar que **disfruto mucho del trabajo en equipo.** :fist: :fist:
+- Hoy en día me encuentro en **búsqueda laboral activa** para aportar mi parte en un equipo de desarrollo y seguir aprendiendo de este maravilloso mundo de la programación. :boom: :boom: :boom: 
+- Tecnologías que manejo: **HTML, CSS, Javascrip, React, Redux, Express, SQL, Sequelize** entre otras.:stuck_out_tongue_winking_eye:
+- Si te interesa saber más sobre mi te dejo mi **[Perfil de Linkedin](https://www.linkedin.com/in/federico-panella/)**:star:
+- **Gracias** por haber leido hasta la última linea y que tengas un lindo día! :kissing_heart: :hand:
 
 <!--
 **efedefede/efedefede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
